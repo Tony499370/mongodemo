@@ -1,2 +1,0 @@
-# mongodemo
-Honors Assingnment
